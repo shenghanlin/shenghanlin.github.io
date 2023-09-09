@@ -7,13 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-<div align="center">
- <img src="/assets/img/hanlinMiniposter2022-2.jpg" width = "320" height = "180" alt=""/>
- </div>
- <div align="center">
- <img src="/assets/img/hanlinMiniposter2022-1.jpg" width = "320" height = "180" alt=""/>
- </div>
- 
 <!-- _pages/publications.md -->
 <div class="publications">
 
