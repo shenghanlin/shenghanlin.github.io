@@ -21,11 +21,11 @@ social: true  # includes socia l icons at the bottom of the page
 
 Hanlin Sheng currently works at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence.
 
-<div align="left">
- <img src="/assets/img/hanlinMiniposter2022-2.jpg" width = "300" height = "200" alt=""/>
+<div align="center">
+ <img src="/assets/img/hanlinMiniposter2022-2.jpg" width = "320" height = "180" alt=""/>
  </div>
- <div align="left">
- <img src="/assets/img/hanlinMiniposter2022-1.jpg" width = "300" height = "200" alt=""/>
+ <div align="center">
+ <img src="/assets/img/hanlinMiniposter2022-1.jpg" width = "320" height = "180" alt=""/>
  </div>
 
 
