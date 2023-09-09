@@ -13,10 +13,10 @@ profile:
     <p>University of Science and Technology of China, No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.</p>
     <p>Hefei, Anhui</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# news: true  # includes a list of news items
+# latest_posts: true  # includes a list of the newest posts
+# selected_papers: true # includes a list of papers marked as "selected={true}"
+# social: true  # includes socia l icons at the bottom of the page
 ---
 
 Now, I am in CIG [CIG](http://cig.ustc.edu.cn). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
