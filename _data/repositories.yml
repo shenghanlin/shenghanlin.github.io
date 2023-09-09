@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - shenghanlin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - shenghanlin/CO2NET
+  # - shenghanlin/CO2NET
+
