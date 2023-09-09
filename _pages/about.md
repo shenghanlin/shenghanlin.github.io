@@ -9,9 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>+86 15656056362</p>
-    <p>University of Science and Technology of China, P.R.China.</p>
-    <p>Hefei, Anhui</p>
 
 # news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
@@ -21,22 +18,15 @@ social: true  # includes socia l icons at the bottom of the page
 
 <!-- Hanlin Sheng currently works at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence. -->
 
-Hello! I'm a Geophysics With Deep Learning Researcher, particularly in Geophysical Interpretation and Deep Learning. My perseverance has led to the [authorship of 3 papers and co-authorship of 1](https://scholar.google.com/citations?user=nVlz0lEAAAAJ&hl=zh-CN). I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu.
+Hello! I'm a Geophysics With Deep Learning Researcher, particularly in Geophysical Interpretation and Deep Learning. 
+
+My perseverance has led to the [authorship of 3 papers and co-authorship of 1](https://scholar.google.com/citations?user=nVlz0lEAAAAJ&hl=zh-CN). 
+
+I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu.
 
 <table style="border: none;">
   <tr style="border: none;">
     <td valign="top" style="border: none;">
-
-<h2 style="margin-top:0;">Interests</h2>
-
-<ul>
-  <li>Geophysics</li>
-  <li>Deep Learning</li>
-  <li>Self & Semi Supervised Learning</li>
-</ul>
-    </td>
-    <td valign="top" style="border: none;">
-
 <h2 style="margin-top:0;">Education</h2>
 
 <ul>
