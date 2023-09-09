@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "QQ",
+        "username": "995999326",
+        "url": "https://qq.com"
       }
     ]
   },
@@ -38,26 +38,27 @@
   "volunteer": [],
   "education": [
     {
-      "name": "University of Science and Technology of China",
-      "position": "Ph.D. candidate",
+      "institution": "University of Science and Technology of China",
       "url": "https://cig.ustc.edu.cn",
+      "area": "Geophysics",
+      "studyType": "Ph.D. candidate",
       "startDate": "2020-09-01",
       "endDate": "now",
-      "summary": "Hanlin Sheng currently works at the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence.",
-      "highlights": [
-        "Relativity"
+      "score": "",
+      "courses": [
+        "Geophysics"
       ]
     },
     {
       "institution": "Ocean University of China",
       "url": "http://www.ouc.edu.cn/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "studyType": "Bachelor",
+      "startDate": "2016-09-01",
+      "endDate": "2020-06-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Geophysics"
       ]
     }
   ],
@@ -65,8 +66,8 @@
     {
       "title": "First Study Prize in USTC",
       "date": "2022-10-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "awarder": "USTC",
+      "summary": "Degree'"
     }
   ],
   "certificates": [],
@@ -74,7 +75,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker"
     },
     {
@@ -82,7 +83,9 @@
       "fluency": "Fluent"
     }
   ],
-  "interests": [],
+  "interests": [{
+    "Photo": "Cannon"
+  }],
   "references": [],
   "projects": []
 }
