@@ -15,27 +15,21 @@ profile:
     <p>University of Science and Technology of China, No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.</p>
     <p>Hefei, Anhui</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
 Introduction
-
 Hanlin Sheng currently works at [Computational Interpretation Group](http://cig.ustc.edu.cn), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence.
-
 Disciplines
-
 Data Mining, Artificial Neural Network, Artificial Intelligence,
 Mineralogy, Petrology, Geology
-
 Skills and expertise
 Machine Learning, Wavelet, Neural Networks and Artificial Intelligence 
-
 Languages
 Chinese, English
-
 Contact information
 hanlins@mail.ustc.edu.cn
 
