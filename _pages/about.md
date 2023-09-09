@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='University of Science and Technology of China'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='University of Science and Technology of China'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -22,10 +22,10 @@ social: true  # includes socia l icons at the bottom of the page
 Hanlin Sheng currently works at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence.
 
 <div align="left">
- <img src=".//assets/img/hanlinMiniposter2022-2.png" width = "300" height = "200" alt="" align=center />
+ <img src="/assets/img/hanlinMiniposter2022-2.png" width = "300" height = "200" alt="" align=center />
  </div>
  <div align="left">
- <img src=".//assets/img/hanlinMiniposter2022-1.png" width = "300" height = "200" alt="" align=center />
+ <img src="/assets/img/hanlinMiniposter2022-1.png" width = "300" height = "200" alt="" align=center />
  </div>
 
 
