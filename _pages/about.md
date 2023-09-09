@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='University of Science and Technology of China'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
