@@ -9,4 +9,5 @@ We propose a deep-learning-based method to efficiently and accurately characteri
 
 Sheng, H., X. Wu*, X. Sun, and L. Wu, 2023, Deep learning for characterizing CO2 migration in time-lapse seismic images, Fuel, Vol. 336, 126806. https://doi.org/10.1016/j.fuel.2022.126806.
 
-<img src="/assets/img/hanlinMiniposter2022-2.jpg" />
+<img src="/assets/img/hanlinMiniposter2022-2.jpg" 
+width="800" />

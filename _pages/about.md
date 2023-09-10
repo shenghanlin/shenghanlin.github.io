@@ -34,7 +34,7 @@ I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/
 <h2 style="margin-top:0;">Experience</h2>
 
 <ul>
-  <li>Cloud Computing Engineer, Summer Intern, Huawei, 2022.</li>
+  <li>Cloud Computing Engineer, Summer Intern, Huawei, 2022.07-2023.01.</li>
   <li>Teaching Assistant in ESS1502 Artificial Intelligence in Geosciences</li>
 </ul>
 
