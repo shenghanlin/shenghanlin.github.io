@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2023-09-08 15:59:00-0400
-inline: true
 title: Seismic Foundation Model
+inline: false
 related_posts: false
 ---
 we introduce a workﬂow to develop geophysical foundation models, including data preparation, model pre-training, and adaption to downstream tasks.

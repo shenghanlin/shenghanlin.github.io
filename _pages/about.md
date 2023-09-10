@@ -18,20 +18,25 @@ social: true  # includes socia l icons at the bottom of the page
 
 <!-- Hanlin Sheng currently works at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence. -->
 
-Hello! I'm a Geophysics With Deep Learning Researcher, particularly in Geophysical Interpretation and Deep Learning. 
-
-My perseverance has led to the [authorship of 3 papers and co-authorship of 1](https://scholar.google.com/citations?user=nVlz0lEAAAAJ&hl=zh-CN). 
+Hello! I'm particularly interested in Geophysical Interpretation and Deep Learning. At present, I hope to explore more research on foundation models and achieve better results in more applications.
+My perseverance has led to the [authorship of 4 papers and co-authorship of 1](https://scholar.google.com/citations?user=nVlz0lEAAAAJ&hl=zh-CN). 
 
 I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu.
 
-<!-- <table style="border: none;">
-  <tr style="border: none;">
-    <td valign="top" style="border: none;"> -->
+
 <h2 style="margin-top:0;">Education</h2>
 
 <ul>
   <li>Phd.D. in Geophysics, 2020-now， University of Science and Technology of China</li>
   <li>BSc    in Geophysics, 2016-2020，Ocean University Of China</li>
+
+
+<h2 style="margin-top:0;">Interests</h2>
+
+<ul>
+  <li>Foundation Model</li>
+  <li>Self-supervied Learning</li>
+  <li>Computer Vision</li>
 <!-- </ul>
     </td>
     <td valign="top" style="border: none;"> -->

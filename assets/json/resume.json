@@ -4,7 +4,6 @@
     "label": "Ph.D. candidate",
     "image": "",
     "email": "hanlins@mail.ustc.edu.cn",
-    "phone": "(86) 15656056362",
     "url": "https://shenghanlin.github.io/",
     "summary": "Hanlin Sheng currently works at the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence.",
     "location": {
@@ -14,13 +13,6 @@
       "countryCode": "China",
       "region": "Anhui"
     },
-    "profiles": [
-      {
-        "network": "QQ",
-        "username": "995999326",
-        "url": "https://qq.com"
-      }
-    ]
   },
   "volunteer": [],
   "education": [
@@ -39,7 +31,7 @@
     {
       "institution": "Ocean University of China",
       "url": "http://www.ouc.edu.cn/",
-      "area": "Software Development",
+      "area": "Geophysics",
       "studyType": "Bachelor",
       "startDate": "2016-09-01",
       "endDate": "2020-06-01",
@@ -64,11 +56,11 @@
   // ],
   "awards": [
     {
-      "title": "First Study Prize in USTC",
+      "title": "First Academic Scholarship in USTC",
       "date": "2022-10-01",
       "awarder": "USTC",
-      "summary": "Degree'"
-    }
+      "summary": "Academic Scholarship'"
+    },
   ],
   "certificates": [],
   "publications": [],

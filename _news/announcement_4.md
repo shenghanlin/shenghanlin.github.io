@@ -6,4 +6,4 @@ title: Seismic Foundation Model
 related_posts: false
 ---
 
-Si, X., X. Wu*, H. Sheng, J. Zhu, and Z. Li, 2023, SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction, GRL, submitted.
+Co-author in Si, X., X. Wu*, H. Sheng, J. Zhu, and Z. Li, 2023, SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction, GRL, submitted.
