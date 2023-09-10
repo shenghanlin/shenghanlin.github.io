@@ -10,3 +10,4 @@ We have proposed a new NMO correction method which we call the WNMO correction m
 
 Sheng, H., X. Wu, and B. Zhang, 2022, Wavelet estimation and nonstreching NMO correction. Geophysics, Vol. 87(3), V193–V203.
 
+<img src="/assets/img/hanlinMiniposter2022-1.jpg" />

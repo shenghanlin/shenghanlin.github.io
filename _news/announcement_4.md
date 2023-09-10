@@ -7,3 +7,5 @@ related_posts: false
 ---
 
 Co-author in Si, X., X. Wu*, H. Sheng, J. Zhu, and Z. Li, 2023, SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction, GRL, submitted.
+
+<img src="/assets/img/SeisClip.png" />
