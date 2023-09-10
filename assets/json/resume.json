@@ -45,6 +45,19 @@
       ]
     }
   ],
+  "publications": [{
+    "name": "Deep learning for characterizing CO2 migration in time-lapse seismic images.",
+    "summary": "Sheng, H., X. Wu*, X. Sun, and L. Wu, 2023, https://doi.org/10.1016/j.fuel.2022.126806.",
+    "publisher":"Fuel, Vol. 336, 126806.",
+    "releaseDate": "2022-12-05"
+  },
+  {
+    "name": "Wavelet estimation and nonstreching NMO correction.",
+    "summary": "Sheng, H., X. Wu, and B. Zhang, 2022, ",
+    "publisher":"Geophysics, Vol. 87(3), V193–V203.",
+    "releaseDate": "2022-03-02"
+  }
+  ],
   "work": [
     {
       "name": "University of Science and Technology of China",
@@ -69,9 +82,14 @@
       ]
     }
   ],
-  "awards": [{
+  "awards": [
+    {
+      "title": "Honorable Metion",
+      "date": "2019-10-01",
+      "awarder": "Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling"},
+    {
     "title": "First Academic Scholarship",
-    "date": "2020-10-01",
+    "date": "2022-10-01",
     "awarder": "School of Earth and Space Sciences, University of Science and Technology of China"},
     {
     "title": "First Academic Scholarship",
@@ -79,30 +97,23 @@
     "awarder": "School of Earth and Space Sciences, University of Science and Technology of China"
   },{
     "title": "First Academic Scholarship",
-    "date": "2022-10-01",
+    "date": "2020-10-01",
     "awarder": "School of Earth and Space Sciences, University of Science and Technology of China"
   },{
-    "title": "Academic Scholarship & Social practice scholarship & Cultural and sports scholarship",
-    "date": "2017-10-01",
+    "title": "Academic Scholarship & Social practice scholarship",
+    "date": "2019-10-01",
     "awarder": "College Of Geosciences, Ocean University of China"
   },{
     "title": "Academic Scholarship & Cultural and sports scholarship",
     "date": "2018-10-01",
     "awarder": "College Of Geosciences, Ocean University of China"
   },{
-    "title": "Academic Scholarship & Social practice scholarship",
-    "date": "2019-10-01",
+    "title": "Academic Scholarship & Social practice scholarship & Cultural and sports scholarship",
+    "date": "2017-10-01",
     "awarder": "College Of Geosciences, Ocean University of China"
   }
   ],
   "certificates": [],
-  "publications": [{
-    "name": "Deep learning for characterizing CO2 migration in time-lapse seismic images",
-    "summary": "Seismic Foundation Model",
-    "publisher":"Fuel",
-    "releaseDate": "2022-12-05"
-  }
-  ],
   "skills": [],
   "languages": [
     {
