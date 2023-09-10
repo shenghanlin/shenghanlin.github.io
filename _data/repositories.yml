@@ -1,10 +1,7 @@
 github_users:
-  - awsaf49
+  - shenghanlin
 
 github_repos:
-  - awsaf49/artifact
-  - awsaf49/gcvit-tf
-  - awsaf49/bbox
-  - awsaf49/tensorflow_extra
-  - awsaf49/TransUNet-tf
-  - awsaf49/audio_classification_models
+  - shenghanlin/CO2NET
+  # - shenghanlin/CO2NET
+
