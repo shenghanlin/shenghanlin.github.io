@@ -1,78 +1,11 @@
-- title: General Information
+- title: Curriculum vitae (CV)
   type: map
   contents:
     - name: Full Name
-      value: Hanlin Sheng
-    - name: Date of Birth
-      value: 4th August 1997
+      value: Md Awsafur Rahman
     - name: Languages
-      value: Chinese,English
-
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D. candidate
-      institution: University of Science and Technology of China
-      year: 2020-now
-      description:
-        - Computational Interpretation Group
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Ocean University of China
-      year: 2016-2020
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Cloud Computing Engineer, Summer Intern, Huawei, 2022.
-      institution:  Huawei
-      year: 2022.07 - 2023.01
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/shenghanlin/SeismicFoundationModel">al-folio</a>
-      year: 2023-now
-      description: Seismic Foundation Model.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+      value: Bangla, English, Hindi
+    - name: Download CV 
+      links:
+        - link: /assets/pdf/cv.pdf
+          name: CV PDF

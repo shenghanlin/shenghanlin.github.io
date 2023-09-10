@@ -115,7 +115,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 50%;
 
   .address {
     margin-bottom: 5px;
@@ -305,7 +305,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
 
     a {
       i::before {
@@ -587,7 +587,7 @@ footer.sticky-bottom {
       .preview {
         width: 100%;
         min-width: 80px;
-        max-width: 200px;
+        max-width: 800px;
       }
 
       .abbr {

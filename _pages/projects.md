@@ -1,12 +1,14 @@
 ---
-layout: page
-title: projects
+layout: project
+title: Projects
 permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 5
+display_categories: [DeepLearning, EEE, CSE]
 horizontal: false
+toc:
+  sidebar: left
 ---
 
 <!-- pages/projects.md -->
