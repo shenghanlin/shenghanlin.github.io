@@ -6,4 +6,4 @@ title: Seismic Foundation Model
 related_posts: false
 ---
 
-Sheng, H., X. Wu*, X. Si, J. Li, S. Zhang, and X. Duan, 2023, Seismic Foundation Model (SFM): a next generation deep learning model in geophysics, submitted.
+Si, X., X. Wu*, H. Sheng, J. Zhu, and Z. Li, 2023, SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction, GRL, submitted.

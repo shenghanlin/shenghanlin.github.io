@@ -5,5 +5,6 @@ inline: true
 title: Seismic Foundation Model
 related_posts: false
 ---
+we introduce a workﬂow to develop geophysical foundation models, including data preparation, model pre-training, and adaption to downstream tasks.
 
-Si, X., X. Wu*, H. Sheng, J. Zhu, and Z. Li, 2023, SeisCLIP: A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction, GRL, submitted.
+Sheng, H., X. Wu*, X. Si, J. Li, S. Zhang, and X. Duan, 2023, Seismic Foundation Model (SFM): a next generation deep learning model in geophysics, submitted.
