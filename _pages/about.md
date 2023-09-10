@@ -24,9 +24,9 @@ My perseverance has led to the [authorship of 3 papers and co-authorship of 1](h
 
 I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/hanlin/list.htm), the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu.
 
-<table style="border: none;">
+<!-- <table style="border: none;">
   <tr style="border: none;">
-    <td valign="top" style="border: none;">
+    <td valign="top" style="border: none;"> -->
 <h2 style="margin-top:0;">Education</h2>
 
 <ul>
