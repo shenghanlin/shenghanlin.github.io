@@ -21,7 +21,7 @@
     {
       "institution": "University of Science and Technology of China",
       "url": "https://cig.ustc.edu.cn",
-      "area": "Geophysics",
+      "area": "Computational Interpretation Group",
       "studyType": "Ph.D. candidate",
       "startDate": "2020-09-01",
       "endDate": "now",
@@ -37,7 +37,7 @@
       "studyType": "Bachelor",
       "startDate": "2016-09-01",
       "endDate": "2020-06-01",
-      "score": "",
+      "score": "3.54/4.0 (Top 15%)",
       "courses": [
         "Geophysics","vice-monitor 2016-2020",
         "College Students Art Troupe Assistant Chairman",
@@ -74,10 +74,16 @@
   "certificates": [],
   "publications": [
   ],
-  "skills": [{
-
-  }],
+  "skills": [],
   "languages": [
+    {
+      "language": "Python",
+      "fluency": "Pytorch, Tensorflow"
+    },
+    {
+      "language": "Java",
+      "fluency": "JTK"
+    },
     {
       "language": "Chinese",
       "fluency": "Native speaker"
