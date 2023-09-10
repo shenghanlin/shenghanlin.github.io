@@ -2,7 +2,7 @@
 layout: post
 date: 2023-09-08 15:59:00-0400
 inline: false
-title: SeisCLIP: : A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction
+title: SeisCLIP A seismology foundation model pre-trained by multi-modal data for multi-purpose seismic feature extraction
 related_posts: false
 ---
 
