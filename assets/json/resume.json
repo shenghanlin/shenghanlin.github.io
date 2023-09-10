@@ -43,24 +43,35 @@
       ]
     }
   ],
-  // "work": [
-  //   {
-  //     "name": "University of Science and Technology of China",
-  //     "position": "Ph.D. candidate",
-  //     "url": "https://cig.ustc.edu.cn",
-  //     "startDate": "2020-09-01",
-  //     "endDate": "now",
-  //     "summary": "Hanlin Sheng currently works at the School of Earth and Space Sciences, University of Science and Technology of China, supervised by Prof. Xinming Wu. Hanlin does research in Geophysics and Artificial Intelligence.",
-  //     "highlights": [
-  //       "Relativity"
-  //     ]
-  //   }
-  // ],
+  "work": [
+    {
+      "name": "University of Science and Technology of China",
+      "position": "Teaching Assistant",
+      "url": "https://cig.ustc.edu.cn",
+      "startDate": "2021-09-01",
+      "endDate": "2022-02-01",
+      "summary": "Teaching Assistant in ESS1502 Artificial Intelligence in Geosciences",
+      "highlights": [
+        "Deep Learning","GeoScience"
+      ]
+    },
+    {
+      "name": "Huawei Technologies Co,. Ltd.",
+      "position": "Intern",
+      "url": "https://www.huawei.com/",
+      "startDate": "2022-07-06",
+      "endDate": "2023-01-06",
+      "summary": "Seismic Foundation Model",
+      "highlights": [
+        "Deep Learning","Seismic Foundation Model"
+      ]
+    }
+  ],
   "awards": [
-    
   ],
   "certificates": [],
-  "publications": [],
+  "publications": [
+  ],
   "skills": [],
   "languages": [
     {

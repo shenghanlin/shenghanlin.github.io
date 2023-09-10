@@ -36,7 +36,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/shenghanlin/SeismicFoundationModel">SeismicFoundationModel</a>
+    - title: <a href="https://github.com/shenghanlin/SeismicFoundationModel">al-folio</a>
       year: 2023-now
       description: Seismic Foundation Model.
 
