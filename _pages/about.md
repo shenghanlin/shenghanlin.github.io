@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: <a href='University of Science and Technology of China'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
