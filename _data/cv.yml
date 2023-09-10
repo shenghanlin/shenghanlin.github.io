@@ -36,9 +36,12 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/shenghanlin/SeismicFoundationModel">al-folio</a>
+    - title: <a href="https://github.com/shenghanlin/SeismicFoundationModel">SeismicFoundationModel</a>
       year: 2023-now
-      description: Seismic Foundation Model.
+      description: Seismic Foundation Model (SFM): a new generation deep learning model in geophysics.
+    - title: <a href="https://github.com/shenghanlin/CO2NET">CO2NET</a>
+      year: 2023-now
+      description: Deep learning for characterizing CO2 migration in time-lapse seismic images.
 
 - title: Honors and Awards
   type: time_table
