@@ -1,0 +1,153 @@
+- title: Research
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Institute of Robotics & Automataion, BUET (IRAB)
+      department: Supervised by Dr. Shaikh Anowarul Fattah
+      year: 2023 - Present
+      description:
+        - Visual-Language-Model (Zero-shot object detection-segmentation, Image captioning).
+        - Diffusion (Image-to-Image generation - Super-Resolution, Inpainting, Outpainting, etc).
+        - Self & Semi Supervised Learning (Image-based pretraining for NLP grade performance).
+    - title: Undergraduate Thesis
+      institution: Dept. of EEE, BUET
+      department: Supervised by Dr. Shaikh Anowarul Fattah
+      year: 2022 - 2023
+      description:
+        - Fake Image Detection from both known & unknown generators; Paper accepted at IEEE ICIP'23 (1<sup>st</sup> author).
+        - Multi-task Learning for Depth & Semantics using Transformers; Paper under review at IEEE WACV'24 (1<sup>st</sup> author).
+        - Monocular Depth Estimation with Transformers; Paper under review at IEEE Sensors (1<sup>st</sup> author).
+        - Synthetic Speech Attribution from many sources; Won IEEE Sp Cup 2023.
+        - Awarded ML Research Spotlight Award in August by Kaggle (Solo).
+    - title: Undergraduate Research Assistant
+      institution: Robotics Lab, Dept. of EEE, BUET
+      department: Jointly supervised by Lecturer Tanvir Mahmud, and Dr. Shaikh Anowarul Fattah
+      year: 2019 - 2022
+      description:
+        - Abnormalities classification from Chest X-ray; Paper (400+ citations) published in Elsevier CBM [IF 7.7, Q1] (2<sup>nd</sup> author).
+        - Localize and classify anomalies from CT Scan; Paper published in IEEE TAI [Q1] (2<sup>nd</sup> author).
+        - Arrhythmia identification from ECG signal; Paper published in IEEE EMBC'22 (1<sup>st</sup> author).
+        - Skin Cancer (Melanoma) detection from Dermoscopic images; Paper under review at Elsevier BSPC (1<sup>st</sup> author).
+
+
+- title: Collaboration
+  type: time_table
+  contents:
+    - title: SIIM-FISABIO-RSNA COVID-19 Detection
+      institution: NVIDIA, Santa Clara, USA (Remote)
+      year: 2021
+      description:
+        - Collaborated with Dr. <a href="https://developer.nvidia.com/blog/author/cdeotte/">Chris Deotte</a> (Senior data scientist at NVIDIA).
+        - Worked on COVID-19 Detection and Localization from Chest X-Ray.
+        - Won Best Student Team Award and Ranked 4th globally.
+        - Code - <a href="https://github.com/awsaf49/sfr-covid19-detection">GitHub</a> | Video - <a href="https://youtu.be/Rqal21kT-zA">YouTube</a>
+
+    - title: CovSegNet - A Multi Encoder-Decoder Architecture for Efficient Segmentation
+      institution: Princeton University, New Jersey, USA (Remote)
+      year: 2020
+      description:
+        - Collaborated with Dr. <a href="https://ece.princeton.edu/people/sun-yuan-kung">Sun-Yuan Kung</a> (Professor at Princeton University).
+        - Worked on Efficient Image Segmentation, Specially for Covid-19 Lesions.
+        - Published Paper on IEEE Transactions on Artificial Intelligence (Q1)
+        - Paper - <a href="https://ieeexplore.ieee.org/document/9378789">IEEE Xplore</a>
+
+- title: Professional
+  type: time_table
+  contents:
+    - title: Developer Expert
+      institution: Weights & Biases, California, USA (Remote)
+      year: 2021 - 2023
+      description:
+        - Find breast cancers in screening mammograms; Won Gold Medal in Kaggle.
+        - Detect single neuronal cells in microscopy images; Won Gold Medal in Kaggle.
+        - Detect crown-of-thorns starfish in underwater image; Won Gold Medal in Kaggle.
+        - Identify bird calls in soundscapes; Won Gold Medal in Kaggle.
+        - Predict the popularity of shelter pet photos; Won Gold Medal in Kaggle.
+    - title: Kaggle Grandmaster
+      institution: Kaggle Inc., San Francisco, USA (Remote)
+      year: 2019 - 2023
+      description:
+        - Compete with top data scientists from companies like NVIDIA, HuggingFace, H20.ai, etc.
+        - Ranked 7th (best 5th) among 280K and 1st in Bangladesh at Code section.
+        - Won 34 Gold, 7 Silver, and 15 Bronze medals in code.
+        - Won 1 Gold, 3 Silver, and 2 Bronze medals in competitions.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Machine Learning & Deep Learning I (MLDL-I) Course
+      institution: IRAB, BUET
+      department: Course Intructor
+      year: 2023 - Present
+      description:
+        - Theory and hands-on coding for Machine Learning & Deep Learning.
+        - ML - Backpropagation, Gradient Descent, (Regression, SVM, Tree, KNN) models, K-Means Clustering.
+        - DL - DNN, CNN, Architectures (VGG, Residual, Inception, Efficient), Image Classification/Segmentation.
+        - Misc - Data Leakage, Cross-Validation, Augmentation, TensorFlow coding.
+
+- title: Reviewing
+  type: time_table
+  contents:
+    - title: Journal/Conference Reviewer
+      year: 2020 - Present
+      description:
+        - IEEE Journal of Translational Engineering in Health and Medicine (IF - 3.4)
+        - (Received Invitation) IEEE Transactions on Neural Networks and Learning Systems (IF - 10.4)
+        - (Received Invitation) IEEE Transactions on Cybernetics (IF - 11.8)
+
+- title: Open Source
+  type: time_table
+  contents:
+    - title: Contributor
+      institution: GitHub
+      year: 2019 - Present
+      description:
+        - Contributed to popular open-source libraries such as TensorFlow, Keras, HuggingFace, YOLOv5, and TensorFlow-IO.
+        - Published original ML/DL projects including gcvit-tf, tensorflow_extra, TransUnet-tf, audio_classification_models.
+        - Participated in community repos such as vit_keras, ConvNeXt-TF, and keras_cv_attenion_models.
+
+- title: Leadership
+  type: time_table
+  contents:
+    - title: Chairperson
+      institution: IEEE EMBS BUET Student Branch Chapter
+      year: 2022 - 2023
+      description:
+        - Organize IEEE EMBS Society's meetings, seminars, and workshops.
+        - Ensure member engagement and knowledge enhancement through society meetings.
+    - title: Secretary
+      institution: IEEE EMBS BUET Student Branch Chapter
+      year: 2021 - 2022
+      description:
+        - Ensure member engagement and knowledge enhancement through society meetings.
+        - Assist speakers and guests during these events.
+    - title: Class Representative (CR)
+      institution: Section B, Batch 17, Dept. of EEE, BUET
+      year: 2019 - 2023
+      description:
+        - Maintain class in absence of teacher, schedule quizzes, make announcements.
+        - Assist teacher in taking class seamlessly.
+        - Communicate as a channel between teacher and class.
+
+- title: Extracurricular
+  type: time_table
+  contents:
+    - title: Physics Olympiad
+      institution: Bangladesh Physics Olympiad (BdPhO)
+      department: 10th in Divisional Round
+      year: 2017
+
+    - title: Math Olympiad
+      institution: Inter Shaheen Math Olympiad, Bangladesh Air Force
+      department: Finalist (1st in Divisional Round)
+      year: 2015
+
+    - title: Math Olympiad
+      institution: Inter Shaheen Math Olympiad, Bangladesh Air Force
+      department: Finalist (3rd in Divisional Round)
+      year: 2014
+
+    - title: Science Fair
+      institution: Ministry of Science and Technology, Chittagong
+      department: Finalist (Project - Automatic Street Light Control)
+      year: 2014
