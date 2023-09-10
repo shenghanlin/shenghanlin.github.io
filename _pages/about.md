@@ -29,7 +29,7 @@ I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/
 <ul>
   <li>Phd.D. in Geophysics, 2020-now， University of Science and Technology of China</li>
   <li>BSc    in Geophysics, 2016-2020，Ocean University Of China</li>
-
+</ul>
 
 <h2 style="margin-top:0;">Interests</h2>
 
@@ -37,6 +37,15 @@ I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/
   <li>Foundation Model</li>
   <li>Self-supervied Learning</li>
   <li>Computer Vision</li>
+</ul>
+
+<h2 style="margin-top:0;">Experience</h2>
+
+<ul>
+  <li>Cloud Computing Engineer, Summer Intern, Huawei, 2022.</li>
+</ul>
+
+
 <!-- </ul>
     </td>
     <td valign="top" style="border: none;"> -->

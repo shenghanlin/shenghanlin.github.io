@@ -2,7 +2,7 @@
 layout: post
 date: 2020-10-02 15:59:00-0400
 title: Attending 90th SEG Annual Online Meeting
-inline: true
+inline: false
 related_posts: false
 ---
 
