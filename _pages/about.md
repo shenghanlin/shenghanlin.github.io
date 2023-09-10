@@ -32,8 +32,8 @@ I currently work at [Computational Interpretation Group](http://cig.ustc.edu.cn/
 <ul>
   <li>Phd.D. in Geophysics, 2020-now， University of Science and Technology of China</li>
   <li>BSc    in Geophysics, 2016-2020，Ocean University Of China</li>
-</ul>
+<!-- </ul>
     </td>
-    <td valign="top" style="border: none;">
+    <td valign="top" style="border: none;"> -->
 
 
