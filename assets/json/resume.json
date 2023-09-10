@@ -60,17 +60,6 @@
   ],
   "work": [
     {
-      "name": "University of Science and Technology of China",
-      "position": "Teaching Assistant",
-      "url": "https://cig.ustc.edu.cn",
-      "startDate": "2021-09-01",
-      "endDate": "2022-02-01",
-      "summary": "Teaching Assistant in ESS1502 Artificial Intelligence in Geosciences",
-      "highlights": [
-        "Deep Learning","GeoScience"
-      ]
-    },
-    {
       "name": "Huawei Technologies Co,. Ltd.",
       "position": "Summer Intern",
       "url": "https://www.huawei.com/",
@@ -79,6 +68,29 @@
       "summary": "Seismic Foundation Model",
       "highlights": [
         "Deep Learning","Seismic Foundation Model"
+      ]
+    },
+    {
+      "name": "University of Science and Technology of China",
+      "position": "Chairman of SEG Student Chapters in USTC",
+      "url": "https://cig.ustc.edu.cn",
+      "startDate": "2021-09-01",
+      "endDate": "2023-03-02",
+      "summary": "Chairman of Student",
+      "highlights": [
+        "National College students Exploration and Geophysics competition in USTC",
+        "Geophysical knowledge contest"
+      ]
+    },
+    {
+      "name": "University of Science and Technology of China",
+      "position": "Teaching Assistant",
+      "url": "https://cig.ustc.edu.cn",
+      "startDate": "2021-09-01",
+      "endDate": "2022-02-01",
+      "summary": "Teaching Assistant in ESS1502 Artificial Intelligence in Geosciences",
+      "highlights": [
+        "Deep Learning","GeoScience"
       ]
     }
   ],
