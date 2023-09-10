@@ -72,7 +72,12 @@
   "awards": [
   ],
   "certificates": [],
-  "publications": [
+  "publications": [{
+    "name": "Deep learning for characterizing CO2 migration in time-lapse seismic images",
+    "summary": "Seismic Foundation Model",
+    "publisher":"Fuel",
+    "releaseDate": "2022-12-05"
+  }
   ],
   "skills": [],
   "languages": [
