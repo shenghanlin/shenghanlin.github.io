@@ -39,7 +39,7 @@
       "endDate": "2020-06-01",
       "score": "3.54/4.0 (Top 15%)",
       "courses": [
-        "Geophysics","vice-monitor 2016-2020",
+        "vice-monitor 2016-2020",
         "College Students Art Troupe Assistant Chairman",
         "Debate Team"
       ]
@@ -72,27 +72,27 @@
   "awards": [{
     "title": "First Academic Scholarship",
     "date": "2020-10-01",
-    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
-  },{
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China"},
+    {
     "title": "First Academic Scholarship",
     "date": "2021-10-01",
-    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China"
   },{
     "title": "First Academic Scholarship",
     "date": "2022-10-01",
-    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China"
   },{
     "title": "Academic Scholarship & Social practice scholarship & Cultural and sports scholarship",
     "date": "2017-10-01",
-    "awarder": "School of Earth and Space Sciences, Ocean University of China",
+    "awarder": "College Of Geosciences, Ocean University of China"
   },{
     "title": "Academic Scholarship & Cultural and sports scholarship",
     "date": "2018-10-01",
-    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+    "awarder": "College Of Geosciences, Ocean University of China"
   },{
     "title": "Academic Scholarship & Social practice scholarship",
     "date": "2019-10-01",
-    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+    "awarder": "College Of Geosciences, Ocean University of China"
   }
   ],
   "certificates": [],
