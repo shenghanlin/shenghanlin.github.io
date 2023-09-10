@@ -69,7 +69,31 @@
       ]
     }
   ],
-  "awards": [
+  "awards": [{
+    "title": "First Academic Scholarship",
+    "date": "2020-10-01",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+  },{
+    "title": "First Academic Scholarship",
+    "date": "2021-10-01",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+  },{
+    "title": "First Academic Scholarship",
+    "date": "2022-10-01",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+  },{
+    "title": "Academic Scholarship & Social practice scholarship & Cultural and sports scholarship",
+    "date": "2017-10-01",
+    "awarder": "School of Earth and Space Sciences, Ocean University of China",
+  },{
+    "title": "Academic Scholarship & Cultural and sports scholarship",
+    "date": "2018-10-01",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+  },{
+    "title": "Academic Scholarship & Social practice scholarship",
+    "date": "2019-10-01",
+    "awarder": "School of Earth and Space Sciences, University of Science and Technology of China",
+  }
   ],
   "certificates": [],
   "publications": [{
